@@ -11,7 +11,7 @@ def index():
   return jsonify({
     'Instancia': 'Instancia #1 - API #1',
     'Curso': 'Seminario de sistemas 1',
-    'Estudiante': 'Estudiante - ',
+    'Estudiante': 'Estudiante - 201709328',
   })
 
 if __name__ == '__main__':
